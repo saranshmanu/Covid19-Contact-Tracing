@@ -13,10 +13,28 @@ Taxi Trajectory data was used for the city of Porto, in Portugal and 5 random ta
 ## Results
 
 ### With Normal dataset
-![alt-text-1](heatmap_test.png "Heatmap") ![alt-text-2](contact_tracing_heatmap.png "Contact Tracing")
+<table>
+  <tr>
+    <td>Trajectory Path</td>
+    <td>Contact Tracing Heatmap</td>
+  </tr>
+  <tr>
+    <td><img src="assets/[Normal] city_trajectory_map.png"></td>
+    <td><img src="assets/[Normal] contact_tracing_heatmap.png"></td>
+  </tr>
+</table>
 
-### with Synthetic dataset
-![alt-text-1](heatmap_test_synthetic_data.png "title-1") ![alt-text-2](contact_tracing_heatmap_synthetic_data.png "title-2")
+### With Synthetic dataset
+<table>
+  <tr>
+    <td>Trajectory Path</td>
+    <td>Contact Tracing Heatmap</td>
+  </tr>
+  <tr>
+    <td><img src="assets/[Synthetic] city_trajectory_map.png"></td>
+    <td><img src="assets/[Synthetic] contact_tracing_heatmap.png"></td>
+  </tr>
+</table>
 
 ## Resources
 
